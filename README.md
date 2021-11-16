@@ -5,22 +5,32 @@ You are now ready to apply machine learning to solve a real-world challenge: cre
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 * Naive Random Oversampling: 
-![Naive Random Oversampling](random_oversampling.png)
+![Naive Random Oversampling](random_oversampling.PNG)
+Balance Accuracy Score: 66%
 
 * SMOTE Oversampling
-![SMOTE](smote_oversampling.png)
+![SMOTE](smote_oversampling.PNG)
+Balance Accuracy Score: 63%
+
 
 * Cluster Centroids
-![under](undersampling.png)
+![under](undersampling.PNG)
+Balance Accuracy Score: 52%
+
 
 * SMOTEENN
-![combination](combination.png)
+![combination](combination.PNG)
+* Balance Accuracy Score: 62%
+
 
 * Balanced Random Forest Classifier
-![random forest](random_forest.png)
+![random forest](random_forest.PNG)
+Balance Accuracy Score: 79%
+
 
 * Easy Ensemble AdaBoost Classifier
-![easy ensemble](easy_ensemble.png)
+![easy ensemble](easy_ensemble.PNG)
+Balance Accuracy Score: 93%
+
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning
-
