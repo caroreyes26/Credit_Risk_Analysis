@@ -20,7 +20,7 @@ Balance Accuracy Score: 52%
 
 * SMOTEENN
 ![combination](combination.PNG)
-* Balance Accuracy Score: 62%
+Balance Accuracy Score: 62%
 
 
 * Balanced Random Forest Classifier
